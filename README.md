@@ -25,7 +25,7 @@ It integrates persistent storage using both:
 
 ## 📊 Architecture Diagram
 
-![Architecture Diagram](Images/Projectk8s.png)
+![Architecture Diagram](Images/Deploy WordPress with MySQL on AWS, Digram.png)
 
 ![Kubernetes Flow](Images/awscluster.png)
 ---
